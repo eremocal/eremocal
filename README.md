@@ -1,5 +1,6 @@
 <h1 align="center">Hello 👋, I'm Ericson Remocal from Philippines.</h1>
 <h3 align="center">A curious software developer/engineer who's trying to get better everyday.</h3>
+<h3 align="center">Be comfortable with being uncomfortable.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ericsonremocal05&label=Profile%20views&color=0e75b6&style=flat" alt="ericsonremocal05" /> </p>
 
