@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **remocalericson05@gmail.com**
 
-- ⚡ Fun fact **I am an ambivert**
+- ⚡ Fun fact **I am an ambivert not an introvert and extrovert just in the middle**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
