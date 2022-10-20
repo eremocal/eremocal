@@ -8,8 +8,6 @@
 
 - 💬 Ask me about **cats**
 
-- 📫 How to reach me **remocalericson05@gmail.com**
-
 - ⚡ Fun fact **I am an Introvert**
 
 <h3 align="left">Connect with me:</h3>
