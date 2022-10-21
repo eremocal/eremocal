@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **T3 Stack, Microfrontends and Testing**
 
-- 💬 Ask me about **cats**
+- 💬 Ask me about **cats**.
 
 - ⚡ Fun fact **I am an Introvert**
 
