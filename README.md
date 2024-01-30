@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ericsonremocal05&label=Profile%20views&color=0e75b6&style=flat" alt="ericsonremocal05" /> </p>
 
-- 🌱 I’m currently learning **T3 Stack, Microfrontends and Testing**
+- 🌱 I’m currently learning **T3 Stack, Microfrontends, Microservices and Testing**
 
 - 💬 Ask me about **cats**.
 
